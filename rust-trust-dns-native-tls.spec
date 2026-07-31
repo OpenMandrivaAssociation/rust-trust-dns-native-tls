@@ -5,8 +5,8 @@
 %global crate trust-dns-native-tls
 
 Name:           rust-%{crate}
-Version:        0.18.0
-Release:        2%{?dist}
+Version:        0.21.1
+Release:        1%{?dist}
 Summary:        Trust-DNS is a safe and secure DNS library
 
 # Upstream license specification: MIT/Apache-2.0
